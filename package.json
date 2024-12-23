@@ -1,0 +1,28 @@
+{
+  "name": "start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.jsn"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnieSkywalker/node-start.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnieSkywalker/node-start/issues"
+  },
+  "homepage": "https://github.com/AnnieSkywalker/node-start#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
